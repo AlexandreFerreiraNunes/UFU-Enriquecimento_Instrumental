@@ -1,0 +1,16 @@
+# --- Binários e Drivers ---
+*.zip
+*.exe
+*.dll
+
+# --- Bibliotecas de Terceiros ---
+# Geralmente não subimos bibliotecas que podem ser instaladas pelo Gerenciador do Arduino
+libraries/
+driver/
+
+# --- Arquivos do VS Code ---
+.vscode/
+
+# --- Documentos ---
+*.pdf
+*.docx
